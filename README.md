@@ -56,4 +56,4 @@ npm run dev
 
 ## 📌 Catatan
 
-- Model YOLOv8 (`model.pt`) tidak disertakan dalam repo ini. Unduh dari: [Google Drive link here]
+- Model YOLOv8 (`model.pt`) tidak disertakan dalam repo ini. Unduh dari: (https://drive.google.com/file/d/1SBSdLToMTEYue1uBrpHUC6dQygtA-tjT/view?usp=sharing)
