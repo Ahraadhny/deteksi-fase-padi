@@ -1,0 +1,14 @@
+# Abaikan virtual environment dan cache Python
+venv/
+__pycache__/
+*.pyc
+
+# Abaikan file model besar (opsional)
+*.pt
+
+# Abaikan file sistem Windows
+desktop.ini
+*.lnk
+
+# Abaikan node_modules jika kamu pakai frontend JS
+kawaltani-frontend-v2/node_modules/
