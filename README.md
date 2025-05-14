@@ -20,7 +20,7 @@ Lihat [`requirements.txt`](./requirements.txt) untuk detail.
 pip install -r requirements.txt
 ```
 
-### Node.js (Frontend)
+### React.js (Frontend)
 ```bash
 cd kawaltani-frontend-v2
 npm install
@@ -30,13 +30,14 @@ npm install
 
 ### Backend
 ```bash
-python main.py
+venv\Scripts\activate
+uvicorn main:app --reload
 ```
 
 ### Frontend
 ```bash
 cd kawaltani-frontend-v2
-npm run dev
+npm start
 ```
 
 ## 📁 Struktur Folder
